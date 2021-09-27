@@ -1,0 +1,1 @@
+Hi, welcome to my github page!  There's a small selection of my projects here, including a fork of the HPWHsim project I worked on back in 2016 or so that was (is still?) used for code compliance.  If you want to know more about me, check out my webpage, www.nicholaskvaltine.com
